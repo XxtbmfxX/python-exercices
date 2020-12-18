@@ -1,1 +1,4 @@
-# python-exercices
+# python-exercices 
+
+
+mi progreso osiosi
